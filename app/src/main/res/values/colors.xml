@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_color">#008577</color>
+    <color name="white_color">#FFF</color>
+    <color name="blue_color">#389BE9</color>
+    <color name="pink_color">#D81B60</color>
+
+    <color name="app_actionBar_color">#389BE9</color>
+    <color name="app_toolBar_color">#80000000</color>
+
+    <color name="txt_color_white">#FFF</color>
+    <color name="txt_color_orange">#FA8D6B</color>
+    <color name="txt_color_blue">#389BE9</color>
+    <color name="txt_color_red">#F44336</color>
+    <color name="txt_color_green">#66B869</color>
+    <color name="txt_color_demo">#E04312</color>
+
+    <color name="black_color">#000</color>
+    <color name="black_feint_1">#80000000</color>
+    <color name="black_feint_2">#4A000000</color>
+    <color name="black_feint_3">#2C000000</color>
+    <color name="black_feint_4">#11000000</color>
+    <color name="black_feint_5">#F7F2F2</color>
+    <color name="black_feint_6">#FAFAFA</color>
+
+    <color name="txt_color_black_1">#AE000000</color>
+    <color name="txt_color_black_2">#80000000</color>
+
+    <color name="txt_color_lightblue">#C1E9FB</color>
+    <color name="txt_color_lightyellow">#FFE9A6</color>
+    <color name="txt_color_lightgreenish">#C4CDFF</color>
+    <color name="txt_color_lightred">#FFA4CC</color>
+    <color name="gray">#F8F8F8</color>
+
+    <color name="patient_name">#3F51B5</color>
+
+    <color name="backgroundnew">#F7FDFF</color>
+
+    <color name="toolbar_color">#FFFFFF</color>
+
+    <color name="background8621">#FAFAFA</color>
+    <color name="edittextlablecolor">#A1A1A1</color>
+
+    <color name="booked">#E0D679</color>
+    <color name="approved">#61C566</color>
+    <color name="done">#F0950E</color>
+    <color name="rejected">#D13C31</color>
+    <color name="tomorrow">#F1A93D</color>
+    <color name="assign">#3DB842</color>
+    <color name="transfer">#228B82</color>
+    <color name="alert">#E91E63</color>
+    <color name="divider">#E5E5E5</color>
+
+</resources>
